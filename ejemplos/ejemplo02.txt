@@ -8,8 +8,8 @@
 7.  notasEstudiante[2] <-- 2
 8.  Para(indice<--0, indice<3, 1) haga
 9.    Si notasEstudiante[indice]>5 entonces  // Si 8 > 5 (V)
-											 // Si 9 > 5 (V)
-											 // Si 2 > 5 (F)
+                                             // Si 9 > 5 (V)
+                                             // Si 2 > 5 (F)
 10.     notasEstudianteCualitativo[indice] <- "Buena"
 11.   Caso Contrario
 12.     notasEstudianteCualitativo[indice] <- "Mala"
